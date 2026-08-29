@@ -1,0 +1,6 @@
+{
+  "name": "Delhi Live Fuel Price Tracker & API",
+  "description": "Continuous real-time Delhi fuel price tracker and integration API, scraping official government and oil marketing sources (IOCL, IGL, PPAC, DERC).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
